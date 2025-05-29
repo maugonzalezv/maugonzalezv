@@ -12,4 +12,4 @@ Welcome to my GitHub page — here you'll find the public projects I’ve built,
 - 📍 Monterrey, Nuevo León, MX
 ---
 
-## 🧠 Work in progress...
+## 🧠 Work in progress...⬇️ ⬇️ ⬇️ ⬇️ ⬇️ 
