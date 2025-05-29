@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Mau!
 
-- I'm **Mauricio González Valero**, a Computer Science and Engineering student at **Universidad de Monterrey (UDEM)**. Welcome to my GitHub page — here you'll find the public projects I’ve built, explored, and enjoyed working on. 
+- I'm **Mauricio González Valero**, a Computer Science and Engineering student at **Universidad de Monterrey (UDEM)**. Welcome to my GitHub page, here you'll find the public projects I’ve built, explored, and enjoyed working on. 
 ---
 
 ## 📫 Contact
