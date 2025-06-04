@@ -23,14 +23,15 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c++,java,typescript,sql,html,css,python" />
+    <img src="https://skillicons.dev/icons?i=springboot,react,node,tailwind,django,flask,redux,regex" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,ubuntu,centos,figma,idea,vscode,npm,powershell,raspberrypi,sublime,stackoverflow,vim" />
   </a>
 </p>
+
 
 ---
 
