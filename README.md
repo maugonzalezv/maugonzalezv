@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAd/cat-computer.gif" alt="Coding GIF" width="600" />
+# 👋 HEY, I'M MAU!
 
 
 🐱‍👤 I’m currently studying Computer Science & Engineering at **Universidad de Monterrey**.
