@@ -16,12 +16,7 @@
 
 ## 💻 Tech Stack
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
 
-  <!-- Columna izquierda: Título + Tech Badges -->
-  <div style="flex: 1; min-width: 300px;">
-    <h3>💻 Tech Stack</h3>
-    <!-- Aquí van todos tus badges, pegaditos, sin saltos de línea forzados -->
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -49,18 +44,6 @@
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  </div>
-
-  <!-- Columna derecha: GIF del gato -->
-  <div style="flex: 0 0 auto; margin-left: 20px;">
-    <img
-      src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAd/cat-computer.gif"
-      alt="Coding Cat GIF"
-      width="450"
-    />
-  </div>
-
-</div>
 
 
 
