@@ -1,4 +1,5 @@
-<div class="tenor-gif-embed" data-postid="15481689" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/cat-computer-typing-busy-gif-15481689">Cat Computer GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAd/cat-computer.gif" alt="Coding GIF" width="600" />
+
 
 🐱‍👤 I’m currently studying Computer Science & Engineering at **Universidad de Monterrey**.
 
