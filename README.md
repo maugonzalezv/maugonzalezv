@@ -23,7 +23,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=springboot,react,node,tailwind,django,flask,redux,regex" />
+    <img src="https://skillicons.dev/icons?i=spring,react,nodejs,tailwind,django,flask,redux,regex" />
   </a>
 </p>
 <p align="center">
