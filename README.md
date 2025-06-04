@@ -1,7 +1,7 @@
 # 👋 HEY, I'm Mau!
 
 
-🐱‍👤 I’m currently studying Computer Science & Engineering at **Universidad de Monterrey**.
+🐱‍💻 I’m currently studying Computer Science & Engineering at **Universidad de Monterrey**.
 
 ---
 
@@ -27,4 +27,4 @@
 ![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)
 
 
-Thank you for visiting my profile! 👋
+## 🐱‍👓 Work in progress...
