@@ -1,8 +1,0 @@
-{
-  "name": "github-profile",
-  "version": "1.0.0",
-  "scripts": {
-    "update-quote": "node ./scripts/updateQuote.js"
-  },
-  "dependencies": {}
-}
