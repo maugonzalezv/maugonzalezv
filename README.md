@@ -1,4 +1,4 @@
-# 👋 HEY, I'M MAU!
+# 👋 HEY, I'm Mau!
 
 
 🐱‍👤 I’m currently studying Computer Science & Engineering at **Universidad de Monterrey**.
