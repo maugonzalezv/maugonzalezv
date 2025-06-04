@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Mau!
 
--  🐱‍👤 I’m currently studying Computer Science & Engineering at **Universidad de Monterrey**.
+🐱‍👤 I’m currently studying Computer Science & Engineering at **Universidad de Monterrey**.
 
 ---
 
