@@ -7,9 +7,9 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-gonzalez-valero-41509a258/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maugzzv2404@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maugonzalezv) 
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gmail" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
 
 
 ---
@@ -17,19 +17,13 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,typescript,postgresql,html,css,python,javascript,cs,c,kotlin,php,bash" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=cpp,java,typescript,postgresql,html,css,python,javascript,cs,c,kotlin,php,bash" /
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,react,nodejs,tailwind,django,flask,redux,regex" />
-  </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,ubuntu,figma,idea,vscode,npm,powershell,raspberrypi,sublime,stackoverflow,vim" />
-  </a>
 </p>
 
 
