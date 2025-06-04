@@ -63,7 +63,7 @@ I'm **Mauricio González Valero**, a Computer Science & Engineering student at U
 
 ## 🎬 Animations / GIF
 
-<img src="file:///C:/Users/chimp/Downloads/github-snake-dark.svg" alt="Coding GIF" width="300" />
+<img src="https://raw.githubusercontent.com/patrickanyanwu/patrickanyanwu/output/github-snake-dark.svg" width="300" />
 
 ---
 
