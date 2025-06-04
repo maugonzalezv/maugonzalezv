@@ -40,7 +40,7 @@ I'm **Mauricio González Valero**, a Computer Science & Engineering student at U
 
 <!-- GitHub Readme Stats -->
 <img
-  src="https://github-readme-stats.vercel.app/api?username=mauriciogonzalezvalero&show_icons=true&theme=radical"
+  src="https://github-readme-stats.vercel.app/api?username=maurgonzalezv&show_icons=true&theme=radical"
   alt="GitHub Readme Stats"
 />
 
