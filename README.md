@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Mau!
+# <img src="https://tenor.com/view/cat-computer-typing-busy-gif-15481689" alt="Coding GIF" width="100" />  Hey, I'm Mau!
 
 🐱‍👤 I’m currently studying Computer Science & Engineering at **Universidad de Monterrey**.
 
