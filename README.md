@@ -14,10 +14,13 @@ I'm **Mauricio González Valero**, a Computer Science & Engineering student at U
 
 ## 🔗 Contact
 
-- **LinkedIn:** [linkedin.com/in/mauricio-gonzalez-valero-41509a258](https://www.linkedin.com/in/mauricio-gonzalez-valero-41509a258/)
-- **GitHub:** [github.com/maugonzalezv](https://github.com/maugonzalezv)
-- **Email:** maugzzv2404@gmail.com
-- **Location:** Monterrey, Nuevo León, MX
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-gonzalez-valero-41509a258/) 
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tu_usuario_tiktok) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/tu_canal) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maugzzv2404@gmail.com)
+
 
 ---
 
