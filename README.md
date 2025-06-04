@@ -15,7 +15,7 @@ I'm **Mauricio González Valero**, a Computer Science & Engineering student at U
 ## 🔗 Contact
 
 - **LinkedIn:** [linkedin.com/in/mauricio-gonzalez-valero-41509a258](https://www.linkedin.com/in/mauricio-gonzalez-valero-41509a258/)
-- **GitHub:** [github.com/mauriciogonzalezvalero](https://github.com/mauriciogonzalezvalero)
+- **GitHub:** [github.com/maugonzalezv](https://github.com/maugonzalezv)
 - **Email:** maugzzv2404@gmail.com
 - **Location:** Monterrey, Nuevo León, MX
 
@@ -46,18 +46,18 @@ I'm **Mauricio González Valero**, a Computer Science & Engineering student at U
 
 <!-- Top Languages -->
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciogonzalezvalero&layout=compact&theme=radical"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maugonzalezv&layout=compact&theme=radical"
   alt="Top Languages"
 />
 
 <!-- GitHub Streak Stats -->
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=mauriciogonzalezvalero&theme=radical&date_format=M%20j%5B%2C%20Y%5D"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=maugonzalezv&theme=radical&date_format=M%20j%5B%2C%20Y%5D"
   alt="GitHub Streak Stats"
 />
 
 <!-- Profile Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=mauriciogonzalezvalero&theme=onedark" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=maugonzalezv&theme=onedark" alt="GitHub Trophies" />
 
 ---
 
