@@ -1,14 +1,6 @@
 # 👋 Hey, I'm Mau!
 
-I'm **Mauricio González Valero**, a Computer Science & Engineering student at Universidad de Monterrey (UDEM). Welcome to my GitHub page! Here you’ll find the public projects I’ve built, explored, and enjoyed working on.
-
----
-
-## ⭐ About Me
-
-- I’m currently studying Computer Science & Engineering at **Universidad de Monterrey (UDEM)**.
-- I’m preparing for the **AWS Cloud Practitioner** certification.
-- I love exploring backend technologies like **Java + Spring Boot**, **Node.js**, **AWS Cloud**, and **AI**.
+-  🐱‍👤 I’m currently studying Computer Science & Engineering at **Universidad de Monterrey**.
 
 ---
 
