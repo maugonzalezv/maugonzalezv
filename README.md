@@ -8,7 +8,7 @@
 ## 🌐 Socials
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mauricio-gonzalez-valero-41509a258/"><img src="maugzzv2404@gmail.com" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gmail" /></a> <a href="https://github.com/maugonzalezv"><img src="https://skillicons.dev/icons?i=github" /></a>  <a href="https://www.instagram.com/maugonzalez24/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.linkedin.com/in/mauricio-gonzalez-valero-41509a258/"><img src="linkedin" /></a> <a href="maugzzv2404@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> <a href="https://github.com/maugonzalezv"><img src="https://skillicons.dev/icons?i=github" /></a>  <a href="https://www.instagram.com/maugonzalez24/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 
