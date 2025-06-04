@@ -36,31 +36,6 @@ I'm **Mauricio González Valero**, a Computer Science & Engineering student at U
 
 ---
 
-## 📊 My GitHub Stats
-
-<!-- GitHub Readme Stats -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=maugonzalezv&show_icons=true&theme=radical"
-  alt="GitHub Readme Stats"
-/>
-
-<!-- Top Languages -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maugonzalezv&layout=compact&theme=radical"
-  alt="Top Languages"
-/>
-
-<!-- GitHub Streak Stats -->
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=maugonzalezv&theme=radical&date_format=M%20j%5B%2C%20Y%5D"
-  alt="GitHub Streak Stats"
-/>
-
-<!-- Profile Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=maugonzalezv&theme=onedark" alt="GitHub Trophies" />
-
----
-
 ## 🎬 Animations / GIF
 
 <img src="https://raw.githubusercontent.com/patrickanyanwu/patrickanyanwu/output/github-snake-dark.svg" width="300" />
