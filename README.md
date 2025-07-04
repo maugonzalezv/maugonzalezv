@@ -20,7 +20,7 @@
     <img src="https://skillicons.dev/icons?i=cpp,java,typescript,postgresql,html,css,python,javascript,cs,c,kotlin,php,bash" /
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=spring,react,nodejs,tailwind,django,flask,redux,regex" />
+    <img src="https://skillicons.dev/icons?i=spring,react,nodejs,tailwind,django,flask,redux,regex,vite" />
 </p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,ubuntu,figma,idea,vscode,npm,powershell,raspberrypi,sublime,stackoverflow,vim,androidstudio" />
